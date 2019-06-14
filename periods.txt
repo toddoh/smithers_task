@@ -1,0 +1,3 @@
+in N days, this ***Day, today, tomorrow, HolidayName, dateTime, on ~th
+"on my ... hour" "during my .... hour" "during ... hour" "on ...hour" matching with time 
+in N weeks, next month, in N months, this week, this weekend, next weekend, in few days

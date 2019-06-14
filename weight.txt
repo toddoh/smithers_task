@@ -1,0 +1,12 @@
+root+prt combine
+
+sequentially read
+compound/dobj/pobj/appos/nn - key, 0.5
+ccomp/xcomp/advcl/advmod/prep - support, 0.3
+nsubj/pcomp/poss/relcl - support 0.1
+aux/auxpass - skip
+
+during the loop:
+if token head.text == root token: 0.5 additional
+OR
+root children contains the item: if not stopwords 0.5 additional

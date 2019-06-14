@@ -1,0 +1,6 @@
+client_secret_380333357631-mubtpvnl87nlgva0uf6qgtk7o929u6k0.apps.googleusercontent.com.json
+config_secrets.py
+dev/**
+.DS_Store
+.vscode/**
+__pycache__/**
